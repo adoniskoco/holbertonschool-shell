@@ -1,2 +1,0 @@
-# holbertonschool-shell
-my repository
